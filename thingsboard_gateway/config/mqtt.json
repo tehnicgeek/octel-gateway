@@ -1,15 +1,15 @@
 {
   "broker": {
     "name": "Default Local Broker",
-    "host": "127.0.0.1",
+    "host": "iotdashboard.octelnetworks.com",
     "port": 1883,
     "clientId": "ThingsBoard_gateway",
     "maxMessageNumberPerWorker": 10,
     "maxNumberOfWorkers": 100,
     "security": {
       "type": "basic",
-      "username": "user",
-      "password": "password"
+      "username": "nny4ymv5ijp3c2ec41b8",
+      "password": "d63h6vul5wsqeabirc49"
     }
   },
   "mapping": [
